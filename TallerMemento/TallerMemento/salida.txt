@@ -1,0 +1,20 @@
+Restaurar sin historial
+No hay estados guardados para restaurar.
+
+Cambio 1
+Contenido actual: "Hola"
+Se guarda el estado.
+
+Cambio 2
+Contenido actual: "Hola, mundo"
+Se guarda el estado.
+
+Cambio 3 (sin guardar)
+Contenido actual: "Hola, mundo. Adios"
+
+Restaurar
+Se restaura el ultimo estado guardado.
+Contenido actual: "Hola, mundo"
+
+Nueva modificacion despues de restaurar
+Contenido actual: "Hola, mundo. Bienvenidos"
